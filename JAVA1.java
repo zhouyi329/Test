@@ -1,3 +1,0 @@
-<?java
-"Hello World"
-javainfo();
